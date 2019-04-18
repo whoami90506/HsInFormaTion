@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">災害警報系統</string>
+    <string name="nextStep">下一步</string>
+    <string name="volcanoAlarm">火山噴發警告</string>
+    <string name="earthquakeAlarm">地震警告</string>
+    <string name="Alarm">警告</string>
+    <string name="distance">距離</string>
+    <string name="km">公里</string>
+    <string name="strength">強度</string>
+    <string name="magnitude">規模</string>
+    <string name="tel">電話</string>
+    <string name="hasChild">家中是否有小孩</string>
+    <string name="hasSenior">家中是否有年長者</string>
+    <string name="hasMedicine">是否有常用藥物</string>
+    <string name="hasPets">是否養寵物</string>
+    <string name="isDisable">是否行動不便</string>
+    <string name="ok">確認</string>
+</resources>
